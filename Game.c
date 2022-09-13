@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <ncurses.h>
-#include "Colors.h"
+#include "colors.h"
 
 int width, height, drawing;
 int score = 0;
